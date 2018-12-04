@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Projecto XPTO](README.md)
+* [Projecto XPTO2](README.md)
 * [FAQ](faq.md)
 
 ## Produto 1
